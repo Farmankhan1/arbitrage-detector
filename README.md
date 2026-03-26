@@ -1,4 +1,4 @@
-# Triangular Arbitrage Scanner (Trader Edition)
+.# Triangular Arbitrage Scanner (Trader Edition)
 
 This project is not a "magic AI bot". It is a deterministic cycle scanner with a conscious decision layer.
 
